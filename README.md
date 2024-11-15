@@ -11,5 +11,5 @@ $ pip install .
 Usage:
 
 ```
-dnstwist --format list --output /Users/pavcesno/Desktop/vilnius.txt vilnius.lt
+dnstwist --format list --output /Users/cesnokov/Desktop/vilnius.txt vilnius.lt
 ```
