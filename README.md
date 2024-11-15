@@ -12,13 +12,9 @@ dnstwist --help
 Usage:
 
 ```
-dnstwist vilnius.lt
+dnstwist --registered vilnius.lt
 ```
 
 ```
 dnstwist --format list --output /Users/cesnokov/Desktop/vilnius.txt vilnius.lt
-```
-
-```
-dnstwist --registered vilnius.lt
 ```
