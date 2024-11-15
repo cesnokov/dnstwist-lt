@@ -4,7 +4,7 @@ For LT ccTLD
 
 ```
 $ git clone https://github.com/cesnokov/dnstwist-lt.git
-$ cd dnstwist
+$ cd dnstwist-lt
 $ pip install .
 ```
 
