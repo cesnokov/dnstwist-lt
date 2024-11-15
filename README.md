@@ -1,4 +1,7 @@
-Fork from https://github.com/elceef/dnstwist optimised for .LT ccTLDs
+Forked from https://github.com/elceef/dnstwist optimised for .LT ccTLDs
+
+
+Installation:
 
 ```
 git clone https://github.com/cesnokov/dnstwist-lt.git
