@@ -7,3 +7,9 @@ $ git clone https://github.com/cesnokov/dnstwist-lt.git
 $ cd dnstwist
 $ pip install .
 ```
+
+Usage:
+
+```
+dnstwist --format list --output /Users/pavcesno/Desktop/vilnius.txt vilnius.lt
+```
